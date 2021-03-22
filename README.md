@@ -1,5 +1,5 @@
 - 👋 Hi, I’m chris watia
-- 👀 I’m interested in web dev
+- 👀 I’m interested in web develeopment
 - 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on angular projects and backend applications
 - 📫 How to reach me - email:chriswatia@gmail.com
