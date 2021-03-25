@@ -1,7 +1,7 @@
 - 👋 Hi, I’m chris watia
 - 👀 I’m interested in web develeopment
-- 🌱 I’m currently learning angular
-- 💞️ I’m looking to collaborate on angular projects and backend applications
+- 🌱 I’m currently learning angular,Laravel and VueJs
+- 💞️ I’m looking to collaborate on angular,VueJs and Laravel applications
 - 📫 How to reach me - email:chriswatia@gmail.com
 
 <!---
