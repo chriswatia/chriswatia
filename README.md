@@ -1,7 +1,7 @@
 - 👋 Hi, I’m chris watia
 - 👀 I’m interested in web develeopment
-- 🌱 I’m currently learning Angular,Laravel and VueJs
-- 💞️ I’m looking to collaborate on Angular,VueJs and Laravel applications
+- 🌱 I’m currently learning React, Spring Boot
+- 💞️ I’m looking to collaborate on React and Spring boot applications
 - 📫 How to reach me - email:chriswatia@gmail.com
 
 <!---
