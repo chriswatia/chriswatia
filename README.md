@@ -4,7 +4,7 @@
 I am a highly skilled and experienced software developer with a strong background in full-stack development, system design, user experience, web security, backend and frontend technologies, low-code development, and database management. I have a proven ability to design and develop high-performance software applications and possess strong problem-solving skills.
 
 ## 👀 Interests
-- Web Development
+- Software Development
 - Learning new technologies
 - Collaborating on exciting projects
 
@@ -57,12 +57,11 @@ I am a highly skilled and experienced software developer with a strong backgroun
 - Various certifications from Open Classrooms in Agile Project Management, ReactJS, Node.js, SQL, and more.
 
 ## 📈 GitHub Stats
-!Chris's GitHub stats
+![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chriswatia&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 ## 🏆 Top Languages
-!Top Languages
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chriswatia&theme=default&show_icons=true&hide_border=true&layout=compact)
 
-You can copy and paste this into your GitHub profile README. Let me know if there's anything else you'd like to add or modify!
 <!---
 chriswatia/chriswatia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
